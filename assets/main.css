@@ -306,4 +306,6 @@ blockquote { margin-bottom: 3em; }
 
 .copy { border: solid 1px #8c8b8b; padding: 0.5em; font-size: small !important; font-style: italic; margin-top: 3em; display: block; color: #8c8b8b; text-align: justify; text-indent: none; border-radius: 5px; }
 
+.post-social { margin: 3em auto; }
+
 /*# sourceMappingURL=main.css.map */
