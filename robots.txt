@@ -1,1 +1,1 @@
-Sitemap: https://granbosque.es/sitemap.xml
+Sitemap: https://granbosque.netlify.com/sitemap.xml
