@@ -1,4 +1,13 @@
 @charset "UTF-8";
+/* latin-ext */
+@font-face { font-family: 'Bitter'; font-style: italic; font-weight: 400; font-display: swap; src: url("./fonts/Bitter-Italic.ttf") format("truetype"); }
+
+/* latin-ext */
+@font-face { font-family: 'Bitter'; font-style: normal; font-weight: 400; font-display: swap; src: url("./fonts/Bitter-Regular.ttf") format("truetype"); }
+
+/* latin-ext */
+@font-face { font-family: 'Bitter'; font-style: normal; font-weight: 700; font-display: swap; src: url("./fonts/Bitter-Bold.ttf") format("truetype"); }
+
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
