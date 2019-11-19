@@ -1,0 +1,8 @@
+name = "granbosque"
+type = "webpack"
+account_id = "e3457c9e79a60a3234db7e9bfa20c2e7"
+workers_dev = true
+
+[site]
+bucket = "_site"
+entry-point = "workers-site"
