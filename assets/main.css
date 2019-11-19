@@ -284,7 +284,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-content p { margin-bottom: 0; /*text-indent: 1.25em;*/ text-align: justify; font-size: 18px; line-height: 1.25em; hyphens: auto; }
 
-.post-content img { margin-top: 2em; }
+.post-content img { margin: 2em 0; margin-left: -1.25em; }
 
 .post-content hr { border: none; margin: 3em auto; background: none; text-align: center; border: none; border-top: 1px dotted #8c8b8b; max-width: 6em; overflow: visible; }
 
