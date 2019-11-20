@@ -5,7 +5,7 @@
   
   <link href="https://granbosque.es/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://granbosque.es/" rel="alternate" type="text/html" hreflang="es" />
-  <updated>2019-11-20T11:46:44+01:00</updated>
+  <updated>2019-11-20T11:49:19+01:00</updated>
   <id>https://granbosque.es//</id>
 
   
@@ -36,7 +36,7 @@
       <published>2019-11-18T17:00:40+01:00</published>
       <updated>2019-11-18T17:00:40+01:00</updated>
       <id>https://granbosque.es/2019/11/18/graograman</id>
-      <content type="html" xml:base="https://granbosque.es/2019/11/18/graograman/">&lt;p&gt;Graógraman es un personaje que aparece en el libro &lt;a href=&quot;La Historia Interminable&quot;&gt;https://es.wikipedia.org/wiki/La_historia_interminable&lt;/a&gt; de &lt;a href=&quot;Ende&quot;&gt;https://es.wikipedia.org/wiki/Michael_Ende&lt;/a&gt;. Si no has leído el libro, lo recomiendo.&lt;/p&gt;
+      <content type="html" xml:base="https://granbosque.es/2019/11/18/graograman/">&lt;p&gt;Graógraman es un personaje que aparece en el libro &lt;a href=&quot;https://es.wikipedia.org/wiki/La_historia_interminable&quot;&gt;La Historia Interminable&lt;/a&gt; de &lt;a href=&quot;https://es.wikipedia.org/wiki/Michael_Ende&quot;&gt;Ende&lt;/a&gt;. Si no has leído el libro, lo recomiendo.&lt;/p&gt;
 
 &lt;p&gt;Antes de empezar a hablar sobre un personaje de un libro infantil, me temo que tengo que justificarme.&lt;/p&gt;
 
@@ -134,7 +134,7 @@
       
 
       
-        <summary type="html">Graógraman es un personaje que aparece en el libro https://es.wikipedia.org/wiki/La_historia_interminable de https://es.wikipedia.org/wiki/Michael_Ende. Si no has leído el libro, lo recomiendo.</summary>
+        <summary type="html">Graógraman es un personaje que aparece en el libro La Historia Interminable de Ende. Si no has leído el libro, lo recomiendo.</summary>
       
 
       
