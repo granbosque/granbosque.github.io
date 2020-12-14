@@ -336,4 +336,6 @@ blockquote { margin-bottom: 3em; }
 
 .footnotes:before { content: ""; border-top: solid 1px #aaaaaa; height: 1em; width: 7em; position: absolute; top: 0; left: o; }
 
+.post-content img.align-center { display: block; margin-left: auto; margin-right: auto; max-width: 50%; }
+
 /*# sourceMappingURL=main.css.map */
