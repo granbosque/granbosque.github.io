@@ -283,6 +283,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-content p { margin-bottom: 0; /*text-indent: 1.25em;*/ text-align: justify; font-size: 18px; line-height: 1.25em; hyphens: auto; }
 
+.post-content ul { text-align: left; line-height: 1.25em; hyphens: auto; }
+
 .post-content img { margin: 2em 0; margin-left: -1.25em; }
 
 .post-content h2 { text-align: center; margin-top: 2em; clear: both; }
@@ -299,6 +301,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /*.post-content p:first-of-type, hr>p, blockquote>p { text-indent:0 }*/
 .post-content p + p { text-indent: 1.25em; }
+
+.post-content p .dropbox-embed-container, .post-content p img { text-indent: 0; }
 
 .post-content blockquote { margin-top: 2em; }
 

@@ -5,7 +5,7 @@
   
   <link href="https://granbosque.es/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://granbosque.es/" rel="alternate" type="text/html" hreflang="es" />
-  <updated>2020-12-17T16:51:50+01:00</updated>
+  <updated>2021-01-10T18:52:24+01:00</updated>
   <id>https://granbosque.es//</id>
 
   
@@ -24,6 +24,428 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Cómo se hizo: «Talento»</title>
+      
+      
+      <link href="https://granbosque.es/2021/01/04/como-se-hizo-talento/" rel="alternate" type="text/html" title="Cómo se hizo: «Talento»" />
+      
+      <published>2021-01-04T09:11:40+01:00</published>
+      <updated>2021-01-04T09:11:40+01:00</updated>
+      <id>https://granbosque.es/2021/01/04/como-se-hizo-talento</id>
+      <content type="html" xml:base="https://granbosque.es/2021/01/04/como-se-hizo-talento/">&lt;p&gt;&lt;a href=&quot;https://lektu.com/l/avenida-noir/dulce-hogar-antologia-domestic-noir/15569&quot;&gt;&lt;img src=&quot;/assets/img/dulcehogar.jpg&quot; alt=&quot;Portada de la antología Dulce Hogar&quot; class=&quot;align-left&quot; /&gt;&lt;/a&gt;
+“Dulce Hogar” es la primera antología coordinada por Avenida Noir, basada en el &lt;strong&gt;terror cotidiano&lt;/strong&gt; y el &lt;strong&gt;domestic noir&lt;/strong&gt;. Uno de los 10 relatos que la constituyen es de mi autoría y se llama &lt;strong&gt;«Talento»&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Te puedes descargar la antología &lt;em&gt;gratis&lt;/em&gt; (con pago social) aquí 👉 &lt;a href=&quot;https://lektu.com/l/avenida-noir/dulce-hogar-antologia-domestic-noir/15569&quot;&gt;Lektu: Dulce Hogar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El relato tiene elementos de misterio, intriga y género policiaco. También está narrado de una forma un tanto experimental que supuso un reto muy divertido.
+En este artículo voy a contar cómo ha sido el proceso de escritura, desde la idea primigenia hasta los últimos retoques.&lt;/p&gt;
+
+&lt;p&gt;Puede que el futuro haga más &lt;em&gt;making of&lt;/em&gt; similares a este, pero al ser el primero, también voy a explayarme en contar cuales son mis técnicas y trucos a la hora de escribir. Más que un análisis que desgranando el relato, es una guía sobre cómo fui ensamblando las piezas.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Índice&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introducción&quot; id=&quot;markdown-toc-introducción&quot;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-semilla&quot; id=&quot;markdown-toc-la-semilla&quot;&gt;La semilla&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#restricciones&quot; id=&quot;markdown-toc-restricciones&quot;&gt;Restricciones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-idea&quot; id=&quot;markdown-toc-la-idea&quot;&gt;La idea&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#elementos&quot; id=&quot;markdown-toc-elementos&quot;&gt;Elementos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aportación&quot; id=&quot;markdown-toc-aportación&quot;&gt;Aportación&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#puntos-de-equilibrio&quot; id=&quot;markdown-toc-puntos-de-equilibrio&quot;&gt;Puntos de equilibrio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-forma&quot; id=&quot;markdown-toc-la-forma&quot;&gt;La forma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-trama&quot; id=&quot;markdown-toc-la-trama&quot;&gt;La trama&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#primera-versión&quot; id=&quot;markdown-toc-primera-versión&quot;&gt;Primera versión&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#concesiones&quot; id=&quot;markdown-toc-concesiones&quot;&gt;Concesiones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#feedback&quot; id=&quot;markdown-toc-feedback&quot;&gt;Feedback&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#el-verdadero-final&quot; id=&quot;markdown-toc-el-verdadero-final&quot;&gt;El verdadero final&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#retoques&quot; id=&quot;markdown-toc-retoques&quot;&gt;Retoques&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusiones&quot; id=&quot;markdown-toc-conclusiones&quot;&gt;Conclusiones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;introducción&quot;&gt;Introducción&lt;/h2&gt;
+
+&lt;p&gt;Normalmente me considero un escritor &lt;a href=&quot;https://www.ivoox.com/horda-capitulo-3-de-mapas-audios-mp3_rf_62052518_1.html&quot;&gt;brújula&lt;/a&gt; y suelo escribir sin demasiada planificación previa. Este relato no es ninguna excepción, por supuesto. Lo que si considero imprescindible, pues no sé trabajar de otra manera, es haber dedicado mucho tiempo (semanas, incluso meses) a rumiar la historia, personajes y atmósfera que quiero darle a la historia. Puede que parezca contradictorio con el &lt;em&gt;método brújula&lt;/em&gt; pero no, no es que desarrolle el &lt;a href=&quot;https://es.wikipedia.org/wiki/Worldbuilding&quot;&gt;worldbuilding&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/search?q=fichas+de+personajes+para+novelas&quot;&gt;fichas de personajes&lt;/a&gt; y demás. Simplemente necesito tener claro qué quiero &lt;strong&gt;comunicar&lt;/strong&gt; con el relato: ¿una reflexión? ¿provocar ciertos sentimientos? ¿para qué escribo esto?&lt;/p&gt;
+
+&lt;p&gt;Al final, si el relato es &lt;em&gt;bueno&lt;/em&gt; (gran cursiva para esa palabra), algo de él permanecerá en el lector. Si bien no va a recordar cada detalle, habrá &lt;em&gt;algo&lt;/em&gt; que haga que le haya gustado y que posteriormente recuerde con agrado. Puede ser la sorpresa de un giro inesperado de los acontecimientos, una enseñanza, el sentimiento de compañía que le provoque un personaje con el que se identifique, o simplemente una &lt;em&gt;imagen&lt;/em&gt; (visual, pero imagen a fin de cuentas) bonita.&lt;/p&gt;
+
+&lt;p&gt;Para mí, esas cuestiones son la clave que luego me guía a la hora de escribir, más que la historia.&lt;/p&gt;
+
+&lt;p&gt;Por supuesto, este es el método que me suele funcionar y no tengo intención de entrar a debatir si es el más adecuado. Creo que no hay conciliación posible y a cada cual le irá mejor el suyo.&lt;/p&gt;
+
+&lt;p&gt;Por eso la primera parada de este &lt;em&gt;making of&lt;/em&gt; es…&lt;/p&gt;
+
+&lt;h2 id=&quot;la-semilla&quot;&gt;La semilla&lt;/h2&gt;
+
+&lt;p&gt;&lt;mark&gt;Atención: SPOILERS a partir de ahora&lt;/mark&gt;&lt;/p&gt;
+
+&lt;p&gt;El punto de partida de este relato fue un ejercicio literario en el que se me proponía contar una historia en la que no se hiciera mención explícita al género del protagonista, hacer creer al lector que es diferente y, solo al final, mediante algún adjetivo, desvelarlo. Ese no debía ser el eje principal del relato, por supuesto, sino únicamente un recurso añadido. La idea era que el propio lector asumiera que el protagonista tenía un género por las acciones que realizaba y que luego se diera cuenta de que sus suposiciones estaban equivocadas. Tampoco se trataba de hacer ninguna valoración moral.&lt;/p&gt;
+
+&lt;p&gt;Para el lector puede ser una sorpresa divertida pero para el escritor supone unas limitaciones que me sirvieron para prestar mucha atención al estilo. Tenía claro cómo lidiar con el vocabulario. Por ejemplo, escribir en primera persona facilita la &lt;strong&gt;ocultación de datos&lt;/strong&gt;, al poder usar el &lt;em&gt;yo&lt;/em&gt; en lugar de &lt;em&gt;él/ella&lt;/em&gt; y al no ser necesario indicar el nombre propio del/la protagonista. Además, hay que tener cuidado con la elección de adjetivos sin marca de género (&lt;em&gt;valiente&lt;/em&gt; en lugar de &lt;em&gt;atrevido/a&lt;/em&gt;, &lt;em&gt;veloz&lt;/em&gt; en lugar de &lt;em&gt;rápido/a&lt;/em&gt;) y que no quede forzado.&lt;/p&gt;
+
+&lt;h2 id=&quot;restricciones&quot;&gt;Restricciones&lt;/h2&gt;
+
+&lt;p&gt;También podría haber usado un nombre &lt;em&gt;neutro&lt;/em&gt; o apodo, pero quizá eso llamara la atención del lector y le hiciera querer fijarse en otras palabras (adjetivos…) para salir de dudas. Por eso, para conseguir el efecto deseado, es imprescindible que el lector no se dé cuenta de que se le está ocultando nada y que no tenga la sensación de engaño.&lt;/p&gt;
+
+&lt;p&gt;Tenía decidido que esa iba a ser una de las premisas que dieran forma al relato y que, de algún modo, determinaría el estilo y el ritmo.&lt;/p&gt;
+
+&lt;p&gt;A la hora de escribir, me gusta utilizar lo que llamo el &lt;strong&gt;“método de las restricciones”&lt;/strong&gt;. Como se puede intuir, se trata de imponerse reglas y limitaciones &lt;em&gt;artificiales&lt;/em&gt; que van a definir lo que se escribe y cómo se escribe, como palabras, conceptos o datos tabú. Este nombre me lo acabo de inventar, pero está inspirado en técnicas y consejos que he leído de escritores consagrados. Quizá el consejo más repetido y conocido sea el de &lt;strong&gt;no lo digas, muéstralo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thehelpfulartteacher.blogspot.com/2010/11/positive-and-negative-space.html&quot;&gt;&lt;img src=&quot;/assets/img/negativespace.jpg&quot; alt=&quot;Espacio negativo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;El cuadrado no existe pero lo ves. Los efectos del &lt;a href=&quot;https://thehelpfulartteacher.blogspot.com/2010/11/positive-and-negative-space.html&quot;&gt;espacio negativo&lt;/a&gt; y &lt;a href=&quot;https://en.wikipedia.org/wiki/Illusory_contours) son recursos bien conocidos en diseño.&quot;&gt;contornos ilusorios&lt;/a&gt; son recursos bien conocidos en diseño.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Con esta técnica normalmente consigo (o eso creo) encontrar formas más eficaces de llegar al lector. Un ejemplo sería: si ha ocurrido un asesinato y la historia gira en torno a eso, no utilizar nunca la palabra &lt;em&gt;asesinato&lt;/em&gt;. Palabra clave, ¡palabra prohibida para el autor! Así, el &lt;em&gt;no lo digas, muéstralo&lt;/em&gt; sale espontáneamente y casi por obligación.&lt;/p&gt;
+
+&lt;p&gt;Habitualmente suelo plantearme como &lt;em&gt;restricción&lt;/em&gt; algún punto clave de la historia o de los personajes. Por ejemplo, que el protagonista nunca verbalice emociones, que diga que persigue un objetivo pero no especifique cuál es, que no se diga explícitamente en qué época nos situamos…  Al dar rodeos para transmitir esos puntos clave el lector los asimila con más naturalidad. Un toque sutil le puede dar mucha personalidad a la narración.&lt;/p&gt;
+
+&lt;p&gt;En definitiva, la premisa del ejercicio de no desvelar el género no me suponía una gran dificultad sino casi una &lt;em&gt;guía&lt;/em&gt; a la hora de teclear.&lt;/p&gt;
+
+&lt;p&gt;Se me ocurrió que para llevar a cabo todas las reglas autoimpuestas (cuidado con los adjetivos, no decir el nombre, etc) puedo recurrir a que gran parte del texto esté en forma de diálogo, entrevista, diario o similar.&lt;/p&gt;
+
+&lt;p&gt;Lo que todavía me faltaba era…&lt;/p&gt;
+
+&lt;h2 id=&quot;la-idea&quot;&gt;La idea&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/rumiar.gif&quot; alt=&quot;Imagen de una vaca rumiando&quot; class=&quot;align-left&quot; /&gt;
+Antes he dicho que para escribir un relato necesito mucho tiempo para pensar en él. Así que esto sí me planteaba una dificultad importante. No soy capaz de generar una idea &lt;em&gt;desde cero&lt;/em&gt;. Las ideas me vienen cuando quiero escribir algo, o más bien, &lt;em&gt;contar&lt;/em&gt; algo, pero en el sentido contrario me resulta casi imposible. Así que le estuve dando vueltas muchos días y finalmente desistí.&lt;/p&gt;
+
+&lt;p&gt;Lo que sí me pareció que podría funcionar era utilizar alguna de las ideas que tenía guardadas en el trastero a la espera de ser escritas y &lt;strong&gt;modificarla para encajar en la &lt;em&gt;forma&lt;/em&gt; y &lt;em&gt;restricciones&lt;/em&gt;&lt;/strong&gt; que ya tenía casi decididas.&lt;/p&gt;
+
+&lt;p&gt;Esto también se lo he oído contar a muchos escritores, que el método para construir una historia no parte de una idea única y original, sino de la mezcla y colisión de varias ocurrencias, en diferentes momentos, que de pronto parecen encajar. Hay otras técnicas para planificar, como el &lt;a href=&quot;https://blog.literup.com/metodo-copo-de-nieve-planificar-novela/)&quot;&gt;método copo de nieve&lt;/a&gt;, pero a mí no me funcionan y me resultan antinaturales. No me sirve de nada tener unos personajes detalladísimos, eso lo puedo improvisar, lo que necesito es que aporten y que tengan algo que contar. Pero insisto en que cada uno tendrá sus métodos, yo cuento lo que me funciona a mí.&lt;/p&gt;
+
+&lt;p&gt;De esas &lt;strong&gt;ideas&lt;/strong&gt; que tenía guardadas para escribir en el futuro, tenía una que me podría servir para este reto. Se trataba de una especie de thriller informático, con un protagonista que se dedica al análisis de datos y acaba envuelto en una conspiración mundial. Desde el principio, esta historia la había planteado como una especie de artículo científico ficticio (al estilo de las películas de terror de tipo falso documental), lo cual me venía de perlas para el ejercicio. Me había imaginado al protagonista era masculino pero eso no tenía mayor relevancia; no sería problema cambiarle el género y confundir al lector, pues los empleos en tecnología se suelen asociar, prejuicios mediante, a los hombres.&lt;/p&gt;
+
+&lt;p&gt;El problema es que esa idea era demasiado larga para un relato, y quizás demasiado corta para una novela, así que empecé a pensar en alguna manera de acortarla. Quizás podría ir al grano de los acontecimientos y saltarme detalles si en lugar de escribir en forma de artículo fuera la transcripción de una entrevista, donde el propio protagonista cuente, de forma resumida, lo ocurrido. Más adelante comentaré más sobre esto.&lt;/p&gt;
+
+&lt;p&gt;Entonces se me ocurrió que esa misma transformación a &lt;strong&gt;diálogo&lt;/strong&gt; la podría aplicar a casi cualquier otra idea primigenia; y tenía candidatos mejores. El thriller informático seguía siendo demasiado largo y sería una pena segarlo innecesariamente.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/4031.Lunar_Park&quot;&gt;&lt;img src=&quot;/assets/img/lunarpark.jpg&quot; alt=&quot;Portada de Lunar Park&quot; class=&quot;align-left&quot; /&gt;&lt;/a&gt;
+Unos años atrás, después de leer &lt;a href=&quot;https://www.goodreads.com/book/show/4031.Lunar_Park&quot;&gt;Lunar Park&lt;/a&gt;, de &lt;a href=&quot;https://es.wikipedia.org/wiki/Bret_Easton_Ellis&quot;&gt;Bret Easton Ellis&lt;/a&gt;, se me ocurrió escribir sobre un grupo de amigos que se dedicaran a hacer falsas sesiones de espiritismo utilizando &lt;em&gt;gadgets&lt;/em&gt; y efectos especiales; y que alguno de los protagonistas acabara creyendo que algo verdaderamente sobrenatural ocurría. En ese momento no tenía tiempo y me dejé aparcada la idea para más adelante.&lt;/p&gt;
+
+&lt;p&gt;Este es un cliché muy visto en muchas películas de terror: el exorcista que finge una posesión que acaba siendo real, el investigador escéptico que acaba asesinado por un fantasma… Pero estas películas precisamente (al menos, las que he visto) tienden a virar hacia lo sobrenatural y yo quería hacer justamente lo contrario: que cualquier cosa extraña que pasara fuese fruto de la inestabilidad mental, prejuicios o falsas apariencias.&lt;/p&gt;
+
+&lt;p&gt;Bien, parece que había encontrado un punto de partida interesante. Para esa idea tenía muy clara la atmósfera y tono general. Me faltaba precisamente concretar la trama, pero con eso podía lidiar.&lt;/p&gt;
+
+&lt;p&gt;Me voy a entretener un momento en explicar esto último. Me faltaba precisamente la historia, pero ya he dicho que lo que me suele bloquear no es &lt;strong&gt;qué hechos contar&lt;/strong&gt; sino &lt;strong&gt;qué mensaje/emociones/reflexión comunicar&lt;/strong&gt;. En este caso quería transmitir el miedo, agobio y desconcierto de alguien que se dedica a engañar a &lt;em&gt;clientes&lt;/em&gt;, simulando presencias sobrenaturales y que se da cuenta de que él mismo se está dejando llevar por esas mentiras. La cuestión no era mostrar simplemente que el protagonista se crea sus propios engaños, sino &lt;strong&gt;que sea consciente de que está siendo arrastrado&lt;/strong&gt; hacia lo absurdo, que sepa que las presencias son ficticias y aun así le generen dudas, &lt;strong&gt;que desconfíe de sí mismo&lt;/strong&gt; porque se percate de que su mente le engaña. Esa contradicción interna y desconfianza en el propio razonamiento es la que quería convertir en la clave de todo el relato.&lt;/p&gt;
+
+&lt;p&gt;Así que, siguiendo mi método, esa sería una de las ideas principales que tendría que &lt;strong&gt;mostrar y no contar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A partir de ahí, ya podría construir una serie de acontecimientos que provocaran esas sensaciones en el lector.&lt;/p&gt;
+
+&lt;h2 id=&quot;elementos&quot;&gt;Elementos&lt;/h2&gt;
+
+&lt;p&gt;Durante el proceso de &lt;em&gt;rumiado&lt;/em&gt; de mi historia de &lt;strong&gt;espiritistas farsantes&lt;/strong&gt;, pensé en algunos elementos que quería introducir. Aunque en cuanto a la trama no tenía mucho más de lo que he contado antes, sí tenía claro que quería darle un punto &lt;em&gt;friki&lt;/em&gt; tecnológico.&lt;/p&gt;
+
+&lt;p&gt;Hay una página web que sigo desde hace años llamada &lt;a href=&quot;https://www.instructables.com/projects/&quot;&gt;Instructables&lt;/a&gt; con instrucciones detalladas de proyectos de bricolaje, electrónica y manualidades. Me imaginaba algo así, artesanal y a la vez sofisticado, para la puesta en escena de las sesiones: una &lt;em&gt;ouija&lt;/em&gt; teledirigida, efectos especiales controlados por la voz, proyecciones que simulen ser fantasmas…  Además, quería mantener el realismo al máximo y utilizar artilugios que pudieran estar al alcance de cualquiera con una cierta &lt;em&gt;habilidad&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;De hecho, ese me parecía un detalle importantísimo y que podría convertir en una de las &lt;a href=&quot;#restricciones&quot;&gt;&lt;strong&gt;claves o restricciones&lt;/strong&gt;⤴&lt;/a&gt;, de esas que evito contar explícitamente pero quiero que el lector perciba. El detalle al que me refiero es: las trampas que usen los protagonistas serían cosas que &lt;strong&gt;cualquiera podría haber aprendido a hacer, pero no todo el mundo ha aprendido&lt;/strong&gt;. El factor diferenciador entre &lt;em&gt;ellos&lt;/em&gt; y el resto no sería una capacidad intelectual excepcional, ni que dispusieran de la última tecnología ultrasecreta como James Bond, sino del uso que le dan y hacia donde dirigen &lt;del&gt;sus habilidades&lt;/del&gt; su talento.&lt;/p&gt;
+
+&lt;p&gt;Este toque &lt;em&gt;de empollón&lt;/em&gt; es la que considero mi &lt;strong&gt;aportación&lt;/strong&gt;, alguna seña de identidad que diferencie la historia de otras parecidas.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Complementariamente a estas premisas arbitrarias, también suelo utilizar la &lt;strong&gt;técnica de la deducción&lt;/strong&gt; para completar los huecos. Esto consiste, ni más ni menos, que en aplicar la lógica para otros puntos clave que ayuden a dar una forma coherente a la historia. Por ejemplo: ¿cómo sería el proceso por el que el/los protagonistas preparan una sesión de falso espiritismo? Para empezar, me parece necesario que sean varios personajes, pues parece un trabajo complicado para hacerlo en solitario.&lt;/p&gt;
+
+&lt;p&gt;Aunque en la primera idea mi protagonista fuera único, masculino y poseedor tanto de la habilidad con la electrónica como del don de la charlatanería, me parece más razonable repartir “tareas”. Esto me lleva inevitablemente al &lt;strong&gt;&lt;em&gt;efecto Spice Girls&lt;/em&gt;&lt;/strong&gt;, que Butcher define mejor que nadie en esta escena de &lt;a href=&quot;https://www.filmaffinity.com/es/film159696.html&quot;&gt;The Boys&lt;/a&gt;. De hecho esa escena la vi mucho después de haber escrito el relato, pero lo enlazo porque es una explicación clarísima:&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3NnbWHAcp90&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;La suma de partes que por separado serían altamente disfuncionales combina de maravilla.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Me acuerdo del libro &lt;a href=&quot;https://www.goodreads.com/author/show/38030.Matilde_Asensi&quot;&gt;El Origen Perdido&lt;/a&gt; de Matilde Asensi, en el que creo recordar que había una pandilla parecida (la coincidencia de algún nombre es casual) y me planteo conseguir algo parecido.&lt;/p&gt;
+
+&lt;p&gt;Para que este trabajo en equipo funcionara, el grupo debía tener unos vínculos fuertes, como ser amigos de la infancia o, mejor aún, haber pasado grandes dificultades juntos. Además, sus personalidades deben ser exageradamente inclinadas hacia una vertiente: si uno es muy racional, otro debe ser emocional, y así… &lt;strong&gt;La complementación sólo funciona si hay algo que complementar, si todas las partes tienen carencias y excesos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Otra clave a la que llego por deducción es que las personas que se dediquen a este tipo de engaños deben tener una buena razón para hacerlo. Quizá la necesidad económica o la diversión. O una mezcla de ambas. Lo que está claro es que quiero protagonistas inteligentes y resueltos, buscavidas. Con esto me acuerdo de &lt;a href=&quot;https://www.goodreads.com/book/show/855285.Tr_fero&quot;&gt;Trífero&lt;/a&gt; de Ray Loriga y su particular revisión de la picaresca. Definitivamente, me parece que los implicados deben tener dificultades en relacionarse de forma convencional, que no tengan reparos en engañar para su propio beneficio. En realidad, esto no combina nada mal con la inteligencia que ya tenía apuntada como necesaria, más bien puede ser un cóctel explosivo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;En resumen: rumiando, rumiando, llegué a la determinación de que mi relato incluiría:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Varios personajes, un grupo de amigos con personalidades complementarias.&lt;/li&gt;
+  &lt;li&gt;Menciones a aparatos y el uso de tecnología realista.&lt;/li&gt;
+  &lt;li&gt;Elementos sobrenaturales (ouija, apariciones, espíritus) que, aunque no fueran reales, marcaran la ambientación.&lt;/li&gt;
+  &lt;li&gt;Acercamiento al terror. Aunque no sea un género que se me dé muy bien, ni me creo capaz de conseguir provocar miedo con un relato, quería cambiar de mi registro habitual de ciencia-ficción/fantasía/antropología/filosofía y experimentar con el terror psicológico.&lt;/li&gt;
+  &lt;li&gt;Algún personaje (o varios) con escasas habilidades sociales.&lt;/li&gt;
+  &lt;li&gt;Mucho diálogo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sé que muchos escritores, probablemente la mayoría, prefieren hacer una escaleta y tener clarísima la trama antes de ponerse a escribir, pero para mí, eso es la escaleta: contradicciones, dilemas, emociones y estética.
+Con esos elementos bien definidos, el resto me lo planteo como colorear una ilustración o completar un dibujo de &lt;em&gt;unir los puntos&lt;/em&gt;, en el que puedo ir improvisando, teniendo claro cuál es la forma general.&lt;/p&gt;
+
+&lt;h2 id=&quot;aportación&quot;&gt;Aportación&lt;/h2&gt;
+
+&lt;p&gt;A la hora de escribir tenemos que asumir que ya existen muchas historias parecidas a las nuestras, aunque no las conozcamos. Igual ocurrirá con la música, pintura y cualquier disciplina creativa. En cualquiera de estas artes hay géneros que tienen a seguir un &lt;strong&gt;canon&lt;/strong&gt; y otros que suelen dar más pie la innovación. Realmente es cuestión del autor, obviamente cada uno tiene libertad para publicar lo que quiera, pero hay géneros como la &lt;em&gt;novela negra&lt;/em&gt; en los que el lector &lt;em&gt;espera&lt;/em&gt; encontrar ciertos clichés, ya cuenta con ellos.&lt;/p&gt;
+
+&lt;p&gt;Aun en estos casos, es deseable que la historia tenga algo original, que la diferencie de los demás. Las fuertes personalidad de Sherlock Holmes y Hercules Poirot o la ambientación urbanita de Stieg Larsson son diferentes formas de aproximarse a un canon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/origami.jpg&quot; alt=&quot;Origami canónico vs origami de autor&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Origami clásico vs origami de autor. A la izquierda, creaciones que siguen los cánones tradicionales (imágenes de &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Origami_-_Crane.svg&quot;&gt;Wikimedia&lt;/a&gt;) y &lt;a href=&quot;https://pixabay.com/es/illustrations/search/animales/&quot;&gt;pixabay&lt;/a&gt;.
+A la derecha, creaciones de &lt;a href=&quot;https://www.flickr.com/photos/malachus/29152948586/&quot;&gt;Malachi Brown&lt;/a&gt; con un estilo propio más realista.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.prb.org/howmanypeoplehaveeverlivedonearth/&quot;&gt;&lt;img src=&quot;/assets/img/vivos.png&quot; alt=&quot;&quot; class=&quot;align-left&quot; /&gt;&lt;/a&gt;
+No es que considere el &lt;em&gt;sello del autor&lt;/em&gt; imprescindible, pero &lt;em&gt;a mí&lt;/em&gt; me gusta aportarlo.&lt;/p&gt;
+
+&lt;p&gt;Teniendo en cuenta que hasta el momento han vivido unos &lt;a href=&quot;(https://www.prb.org/howmanypeoplehaveeverlivedonearth/)&quot;&gt;110 mil millones de personas&lt;/a&gt;, será casi imposible que nuestra historia no se parezca a alguna contada anteriormente, pero nunca está de más intentarlo.&lt;/p&gt;
+
+&lt;p&gt;Una vez claro todos los elementos, pienso que voy a tratar de que mi aportación sea:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dotar al narrador de una voz particular: diálogos y registro coloquial.&lt;/li&gt;
+  &lt;li&gt;Uso de elementos tecnológicos y aprovechar mis (humildes) conocimientos para darle usos ocurrentes y creativos.&lt;/li&gt;
+  &lt;li&gt;Personajes con carisma, contradictorios y antihérores.
+    &lt;h2 id=&quot;puntos-de-equilibrio&quot;&gt;Puntos de equilibrio&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En relación con los &lt;a href=&quot;https://en.wikipedia.org/wiki/Illusory_contours) son recursos bien conocidos en diseño.&quot;&gt;contornos ilusorios&lt;/a&gt; y las &lt;em&gt;restricciones&lt;/em&gt; está el asunto que llamo &lt;em&gt;puntos de equilibrio&lt;/em&gt;, como técnica a la hora de desplegar la historia. Son otra especie de guía que suelo emplear para encauzar la narración y a los que trato de prestar especial atención. Mejor lo explico con ejemplos prácticos: en este caso, tengo tres puntos críticos, que si se desequilibran podrían estropear el efecto final.&lt;/p&gt;
+
+&lt;p&gt;Sobre el primero creo que ya he divagado lo suficiente, se trata de los &lt;em&gt;efectos especiales&lt;/em&gt; y trucos que usan los protagonistas para llevar a cabo su engaño. Tienen que ser originales, sorprendentes, que al lector le parezcan &lt;strong&gt;ingeniosos pero creíbles&lt;/strong&gt;. Descuidar este balance puede suponer que la historia se perciba como divertida pero fantasiosa (evitar el efecto James Bond), mientras que cuidarlo puede darle un aire inquietante: el timador podría ser tu vecino, tu amigo o cualquier persona “normal”.&lt;/p&gt;
+
+&lt;p&gt;Otro aspecto que &lt;strong&gt;equilibrar es la exageración de las personalidades&lt;/strong&gt; para que sean suficientemente diferenciadas y reconocibles, pero no previsibles. En esta ocasión voy a dejarme caer en muchos clichés, porque tampoco hay mucho espacio en un relato para para desarrollar tres personajes complejos, ni tampoco es mi intención; y los clichés pueden ayudar a que el lector &lt;em&gt;rellene los huecos&lt;/em&gt;. Trataré de que cada uno cubra una de las necesidades del equipo, con la única precaución de que tengan algún momento imprevisible. Para la protagonista, su detalle imprevisible será precisamente la revelación del género. Para los demás, intentaré jugar con sus defectos y posibles errores que cometan.&lt;/p&gt;
+
+&lt;p&gt;El último, y que me parece más crucial, punto de equilibrio va a ser &lt;strong&gt;lo desconocido&lt;/strong&gt;, es decir, lo que el lector no sabe y el escritor sí (o tampoco). No me refiero solo a un &lt;a href=&quot;https://www.literautas.com/es/blog/post-4001/deus-ex-machina-que-es-y-como-evitarlo/#:~:text=El%20origen%20de%20la%20expresi%C3%B3n,Olimpo%20para%20solucionar%20la%20trama.&quot;&gt;Deus ex machina&lt;/a&gt;, sino a conseguir que durante la lectura esté a partes iguales desorientado y satisfecho por ir atando cabos. Como no tengo ninguna experiencia en novela negra, y ni siquiera es un género que consuma frecuentemente, no me atrevo a que el peso de la historia recaiga en la resolución de un misterio, e intentaré dárselo a la parte emocional.&lt;/p&gt;
+
+&lt;p&gt;Respecto a &lt;em&gt;lo desconocido&lt;/em&gt;, tal y como tenía planteado el relato tampoco tenía mucho margen. Si va a haber un protagonista principal que cuente &lt;strong&gt;en primera persona&lt;/strong&gt; lo acontecido, el lector va a saber exactamente lo mismo. Me parece complicadísmo conseguir que el lector pueda llegar a saber algo que no sepa el propio protagonista. En cine y televisión esto es más fácil de conseguir mostrando imágenes de acciones u objetos que los protagonistas no ven con sus propios ojos. De forma escrita, usando un narrador omnisciente se puede llegar al mismo efecto, o bien sumando diferentes puntos de vista. Estas técnicas, que dosificar los datos de forma artificial, me parecen un poco &lt;em&gt;tramposas&lt;/em&gt; y no me suelen gustar si de esa información depende la comprensión de la trama. Pero como todo, es cuestión de preferencias personales.&lt;/p&gt;
+
+&lt;p&gt;Con todo esto presente, decidí tomar un riesgo y empezar a escribir sin saber yo mismo la resolución, con intención de dejarla abierta. Si los protagonistas no la saben, ¿por qué la iba a saber el lector? Aunque sí debía ser consciente de que tenía ese punto débil y compensarlo, por ejemplo, potenciando la incertidumbre y haciendo que el propio desconcierto fuese hilo conductor.&lt;/p&gt;
+
+&lt;p&gt;Ojo, que cuando me refiero a que quiero evitar o conseguir tal efecto, no es que piense que sean &lt;em&gt;buenos&lt;/em&gt; o &lt;em&gt;malos&lt;/em&gt;, sino a que es la decisión que tomo para este relato en concreto.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-forma&quot;&gt;La forma&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/talento.jpg&quot;&gt;&lt;img src=&quot;/assets/img/talento.jpg&quot; alt=&quot;Boceto de portada original&quot; class=&quot;align-left&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Yo le doy muchísima importancia al estilo y a &lt;em&gt;la forma&lt;/em&gt; en la literatura, tanto en lo que leo como en lo que escrito. Esto es cuestión de gusto personal: para algunos lectores es crucial la trama, para otros los personajes, y para mí es el estilo. Por eso adoro a Baricco, Ray Loriga y Ursula K. Le Guin y casi cualquier cosa que escriban, sea del género que sea, me suele gustar, porque tienen un estilo endiabladamente bonito y único.&lt;/p&gt;
+
+&lt;p&gt;Estaba claro que este relato no iba a ser prosa poética, pero no podía dejar de lado mi obsesión por darle &lt;strong&gt;un envoltorio digno&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cuando hablo de &lt;em&gt;forma&lt;/em&gt; no me refiero únicamente al estilo personal de cada autor (vocabulario, estructuras, etc), sino a la manera de presentar la historia.&lt;/p&gt;
+
+&lt;p&gt;Como vengo de la informática y las telecomunicaciones, entiendo la literatura como un proceso de &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Serialization&quot;&gt;serialización/deserialización&lt;/a&gt;&lt;/strong&gt;, en el que una &lt;em&gt;historia&lt;/em&gt;, que es una serie de hechos que pueden ocurrir en diferentes lugares, en instantes simultáneos o consecutivos e interrelacionados de diversas formas, se convierten en una serie de palabras, que van una detrás de otra y luego, en la &lt;em&gt;mente&lt;/em&gt; del lector, a partir de esa &lt;em&gt;serie&lt;/em&gt; de palabras, se reconstruyen los hechos. Esto daría para otro artículo completo (y citaría &lt;a href=&quot;https://www.goodreads.com/es/book/show/12948&quot;&gt;Otra vuelta de tuerca&lt;/a&gt;, &lt;a href=&quot;https://www.goodreads.com/book/show/677182.La_invasi_n_divina?from_search=true&amp;amp;from_srp=true&amp;amp;qid=33zvJ8uksS&amp;amp;rank=1&quot;&gt;La invasión divina&lt;/a&gt;, &lt;a href=&quot;https://www.goodreads.com/book/show/32913971-la-esposa-joven?from_search=true&amp;amp;from_srp=true&amp;amp;qid=eBVfSZK6Du&amp;amp;rank=1&quot;&gt;La esposa joven&lt;/a&gt;…) pero no me quiero entretener mucho.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/serialization.jpg&quot; alt=&quot;Serialización&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Datos complejos ➡(escritor)➡ lista consecutiva de palabras ➡(lector) ➡ reconstrucción de los hechos&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lo que quiero sacar en conclusión de esta forma mía de ver la escritura hace que le preste atención a cómo manejar los saltos temporales y cambios de escena. Lo que creo que convierte a la literatura en artesanía es ser capaz de que el lector disfrute y aprecie el proceso de reconstrucción y formación de &lt;em&gt;imágenes mentales&lt;/em&gt; a partir de una serie de palabras, que van en fila como las hormigas, pero pueden ser capaces de levantar conceptos no lineales y enredados.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Las novelas de misterio&lt;/strong&gt; y el género negro en general, &lt;strong&gt;suelen jugar con la forma&lt;/strong&gt; y con el orden y puntos de vista que narran, para que el proceso de lectura sea divertido y satisfactorio. Si se respetara el orden cronológico (X mata a Y, Z lo investiga y descubre que ha sido Z), no tendría gracia. No se trata de que el lector &lt;em&gt;conozca&lt;/em&gt; todo lo ocurrido. Mucho mejor empezar en un punto medio ya que &lt;strong&gt;no queremos describir los acontecimientos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Cómo voy a presentar los hechos que se me ocurren?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Qué puzle le voy a proponer al lector para que los desenmarañe?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Si, efectivamente, considero las palabras un rompecabezas a montar, antes tengo que realizar el proceso inverso: despedazar y diseñar unas piezas que encajen.&lt;/p&gt;
+
+&lt;p&gt;Ya tengo decidido que la historia la va a contar una de las protagonistas, en un interrogatorio. Esto limita los hechos narrados a los que ella conoce. Para seguir el canon de las novelas de misterio, sería adecuado que ella misma no conozca todo lo ocurrido. El agente de policía, por razones obvias, no va a aportar ninguna información, solo va a escucharla, por lo que el lector va a tener una única fuente. Podría incluir alguna conversación entre varios agentes, para mostrar otra cara del prisma, pero me parece una complicación excesiva para un relato corto.&lt;/p&gt;
+
+&lt;p&gt;Por tanto, la forma resultante va a ser que comenzamos en un punto medio: cuando el crimen ya se ha producido pero todavía no se ha resuelto. Así, tengo dos formas de dar &lt;em&gt;migas de pan&lt;/em&gt; al lector:&lt;/p&gt;
+
+&lt;p&gt;Primera: la declaración de la protagonista.
+Segunda: las preguntas de la policía. Intentaré que, sin ser un diálogo entre iguales, deje entrever de forma implícita lo que ignora y necesita saber, lo que considera prioritario o secundario, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-trama&quot;&gt;La trama&lt;/h2&gt;
+
+&lt;p&gt;Con todo esto me hago un esquema mental para comenzar ¡por fin! a escribir. Digo &lt;em&gt;esquema mental&lt;/em&gt; y no escrito porque no tengo la costumbre de hacer escaleta.&lt;/p&gt;
+
+&lt;p&gt;Los personajes van a quedar así:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Protagonista&lt;/strong&gt; (sin nombre por ahora): apasionada de la tecnología y los &lt;em&gt;gadgets&lt;/em&gt;. Utiliza sus habilidades para recrear falsos fenómenos sobrenaturales. Antisocial, fría y cortante.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Martín&lt;/strong&gt;: intuitivo y con un buen don de la palabra. Encargado de engatusar a los clientes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;: gamberro, bruto y sin miedo. Encargado del trabajo sucio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En la idea original, la semilla de la historia, pensé en un protagonista que fuera bueno con la magia y los efectos especiales pero que acabara sufriendo un colapso nervioso. Al definir los personajes, he decidido que esas subtramas van a recaer en dos personajes diferentes. La protagonista será la encargada de la parte técnica, pero el &lt;em&gt;sufridor&lt;/em&gt; será Martín. Esto me permite hablar de él en &lt;strong&gt;tercera persona&lt;/strong&gt;, desde el punto de vista de su amiga, y justificar que no se entienda qué le ha pasado, para provocar que el lector especule. Provocar &lt;em&gt;loquesea&lt;/em&gt; al lector siempre está bien.&lt;/p&gt;
+
+&lt;p&gt;Y el resumen de los hechos sería el siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los tres amigos se dedican a estafar a gente organizando falsas sesiones de espiritismo. Para ello obtienen información de los clientes hurgando en sus casas e investigando sobre ellos.&lt;/li&gt;
+  &lt;li&gt;Para prepara una sesión para una mujer que quiere contactar con su difunto marido, intentan meter un dron en su casa con la intención de sacar fotografías.&lt;/li&gt;
+  &lt;li&gt;El dron se queda atrapado y se cuelan en la casa para recuperarlo.&lt;/li&gt;
+  &lt;li&gt;Los amigos de Martín empiezan a notarlo raro. Parece afectado por lo que está averiguando sobre la mujer.&lt;/li&gt;
+  &lt;li&gt;Realizan la sesión de &lt;em&gt;ouija&lt;/em&gt; y la mujer pregunta si el marido ha llegado al cielo (o al infierno).&lt;/li&gt;
+  &lt;li&gt;A la mujer le da un ataque de nervios, a Martín otro, y todos salen precipitadamente del lugar.&lt;/li&gt;
+  &lt;li&gt;Días después son llamados a declarar porque la mujer ha fallecido. La policía está intentando averiguar qué le ha ocurrido y ellos son los últimos que la vieron con vida.&lt;/li&gt;
+  &lt;li&gt;Esto no se cuenta, pero lo planeo medianamente para mantener la coherencia: lo que Martín descubre investigando la vida de la mujer le despierta recuerdos de su propia vida. Sospecha que el difunto marido con el que la cliente quiere ponerse en contacto murió asesinado por ella misma, y Martín establece un paralelismo entre estos hechos y sus propias vivencias familiares.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La narración empezará en ese último punto, y todo lo anterior lo contaré a modo de &lt;em&gt;flashbacks&lt;/em&gt; desde el punto de vista de la protagonista anónima.&lt;/p&gt;
+
+&lt;p&gt;El último punto de los de arriba, en cualquier caso, no lo voy a contar explícitamente. Prefiero dejarlo abierto a la interpretación, mantener el misterio y así intentar que lo destacable no sea la resolución del “misterio” sino la conexión con los personajes.&lt;/p&gt;
+
+&lt;h2 id=&quot;primera-versión&quot;&gt;Primera versión&lt;/h2&gt;
+
+&lt;p&gt;Aquí se encuentra el primer borrador. Si pulsas en &lt;a href=&quot;https://www.dropbox.com/scl/fi/mkhkmyhf291xgbhu2dak1/Talento.docx?dl=0&amp;amp;rlkey=2qyvv0lnn5ubywxolrp91bz2i&quot;&gt;Ver en dropbox&lt;/a&gt; se abrirá en una página nueva. O si lo prefieres, descárgalo en formato &lt;a href=&quot;https://www.dropbox.com/s/i8g0w7bo5ngyear/Borrador%201%20-%20Un%20Golpe%20m%C3%A1s.docx?dl=1&quot;&gt;DOCX&lt;/a&gt; o &lt;a href=&quot;https://www.dropbox.com/s/iya1xlwrtcp5kn5/Borrador%201%20-%20Un%20Golpe%20m%C3%A1s.pdf?dl=1&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aunque tiene muchas erratas y cosas que posteriormente cambié, &lt;strong&gt;en este documento he incluido comentarios&lt;/strong&gt; míos, con las cosas que veo más destacables.&lt;/p&gt;
+
+&lt;p&gt;Si a alguien le interesa ver cómo he aplicado, con ejemplos concretos, todas las disertaciones que he soltado hasta ahora, puede echarle un vistazo. Hay un gran número de anotaciones, en casi cada párrafo, he intentado que pueda ser de utilidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/scl/fi/mkhkmyhf291xgbhu2dak1/Talento.docx?dl=0&amp;amp;rlkey=2qyvv0lnn5ubywxolrp91bz2i&quot; class=&quot;dropbox-embed&quot; data-height=&quot;20em&quot; data-width=&quot;100%&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;concesiones&quot;&gt;Concesiones&lt;/h2&gt;
+
+&lt;p&gt;Antes de pasar a analizar las impresiones que los primeros lectores me transmitieron, quiero comentar las sensaciones que me produjo a mí mismo ver el relato (más o menos) terminado.&lt;/p&gt;
+
+&lt;p&gt;Supongo que crear cualquier obra debe ser parecido a criar un hijo. Tú puedes poner todo tu empeño en transmitir los mejores valores y tus más valiosas enseñanzas, pero luego él, como criatura independiente, tendrás su propia personalidad que, te guste o no, deberías aceptar.&lt;/p&gt;
+
+&lt;p&gt;Sin tener en cuenta erratas, problemas de estilo y detalles a mejorar, en general estaba bastante satisfecho. Aunque &lt;strong&gt;tras releer esta primera versión de la historia, me di cuenta de que el resultado distaba mucho de lo que había imaginado/planeado originalmente, pero eso no es necesariamente malo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mi consejo es que si hay algo escrito que te genere dudas, me parece que lo más sensato es revisarlo bien y decidir si vale la pena cambiarlo. Si no es así, se da por bueno y se calla para siempre. El único punto que me seguían generando dudas era este:&lt;/p&gt;
+
+&lt;p&gt;La transformación de la historia a diálogo y a relato corto. Yo mismo he &lt;em&gt;alabado&lt;/em&gt; esta transformación, así que puede que no sea muy coherente que llegado a este punto me la planteara de nuevo, pero tenía que quedarme tranquilo.&lt;/p&gt;
+
+&lt;p&gt;La verdadera inseguridad que tenía era si estaba desaprovechando una historia a la que le podía sacar mucho más jugo que con este relato. Y lo explico con ejemplos: Alguna escena, como la irrupción de noche en la casa, o la sesión de ouija, la despacho en dos escasas líneas. Si esos acontecimientos los hubiera narrado en &lt;strong&gt;tercera persona&lt;/strong&gt; y tiempo real podría haberle dedicado diez o veinte páginas, capítulos completos, a contar diálogos, expresiones faciales, describir las habitaciones, colores, olores, sonidos, miradas; a mantener la intriga y crear &lt;a href=&quot;https://es.wikipedia.org/wiki/Cliffhanger&quot;&gt;cliffhangers&lt;/a&gt; al más puro estilo  &lt;a href=&quot;https://g.co/kgs/5vixMW&quot;&gt;Dan Brown&lt;/a&gt;. Podría haber estirado las palabras para saborearlas poco a poco y escrito una novela o guion completo.&lt;/p&gt;
+
+&lt;p&gt;¿Podría?&lt;/p&gt;
+
+&lt;p&gt;Seguramente podría, pero la cuestión aquí es si eso habría sido mejor. No lo creo, podría haber dejado guardada la idea para una novela a escribir cuando tuviera tiempo, allá por el año 2030 que, al final, contase lo mismo, o hacer lo que he hecho y tener un relato condensado, destilado e intenso. Me doy por satisfecho y cierro la página de la duda.&lt;/p&gt;
+
+&lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
+
+&lt;p&gt;Esta fue la versión que le pasé a los &lt;strong&gt;lectores beta&lt;/strong&gt; (¡a los que estoy muy muy agradedido!) y estas son las conclusiones a las que llegué.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El desvelar el género de la protagonista al final funcionaba y se entendía bien, en general había sorprendido y gustado 👏😊&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;narración en forma de diálogo&lt;/strong&gt; en general también les había gustado y resultaba entretenida y dinámica. PERO… había problemas con las &lt;a href=&quot;https://www.aliterata.com/blog/ortotipografia-las-comillas-seguimiento/&quot;&gt;comillas de seguimiento&lt;/a&gt;. Si has leído el documento de arriba, verás que hay diálogos que ocupan varios párrafos. El inicio del diálogo se marca con una raya (—), y el siguiente párrafo, si pertenece a la misma intervención, se indica con este signo: ».
+Lo de meter saltos de línea en los diálogos me parece necesario porque hay intervenciones muy largas y si estuviera todo en el mismo párrafo quedaría demasiado denso y difícil de leer. Tal y como lo he hecho, ortotipográficamente es correcto (¡impecable!). Además, me había asegurado consultado la RAE y FUNDEU. No tendría por qué cambiarlo. Sin embargo, si han sido varios lectores los que me han comentado lo mismo (alguno interpretaba que los distintos párrafos eran distintas personas, o que los que empezaban por » no eran parte del diálogo) me voy obligado a reflexionar y pensar qué puedo hacer para clarificarlo. A fin de cuentas, no se trata de que yo lo vea objetivamente correcto, sino de que el potencial lector lo entienda.
+    &lt;blockquote&gt;
+      &lt;p&gt;—Hola, soy un diálogo.&lt;br /&gt;
+»Y sigo siendo el mismo hablante, ¿ves que no tengo raya sino comillas?.&lt;br /&gt;
+—Lo veo, yo como soy tu interlocutor comienzo con una raya.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los &lt;strong&gt;personajes&lt;/strong&gt; han gustado. Según los comentarios, me da la sensación de que, aunque la historia la cuenta uno de los tres integrantes de la pandilla, todos quedan bien dibujados y tienen cierto gancho.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sobre &lt;strong&gt;el final&lt;/strong&gt; en general recibo comentarios positivos. Está &lt;strong&gt;completamente abierto&lt;/strong&gt; (y tanto que ni el autor tiene clara la resolución del crimen) pero eso no deja mal sabor de boca &lt;strong&gt;ni la sensación de que la historia esté incompleta&lt;/strong&gt;. Creo que mi plan de &lt;em&gt;desviar la atención&lt;/em&gt;, haciendo que las relaciones y personalidades de los protagonistas sean más interesantes que los hechos en sí &lt;strong&gt;funciona a medias&lt;/strong&gt;. Por un lado, parece buena idea que haya varias interpretaciones posibles. De hecho, los lectores me dan muchas teorías diferentes, incluso alguna que no se me había ocurrido a mí: la mujer no murió, el fantasma (difunto marido) era real, el fantasma era un ladrón, el fantasma no era fantasma sino alguien vivo, el difunto era el padre de Martín (mi idea, aunque no la hubiese terminado de concretar, iba por estos derroteros) y eso es lo que le perturbó tanto… 
+Ya digo que creo un final abierto como este pie a &lt;em&gt;jugar&lt;/em&gt; y a que el lector se implique. Mientas vaya &lt;strong&gt;acompañado de algún otro elemento que funcione como cierre&lt;/strong&gt; de la historia. En este caso, el cierre viene dado por la última frase (“usa tu talento para ayudar a tu amigo”), que además potencio usando la palabra “talento” tanto en el título como en un punto por en medio del relato. De todas formas, &lt;strong&gt;no me termina de gustar y creo que hay potencial para algo mejor&lt;/strong&gt;, aunque en este momento me falle la inspiración.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Después de consultar con varias personas, decido &lt;strong&gt;eliminar las escasas intervenciones que no son diálogos&lt;/strong&gt; (los párrafos que no empiezan por — ni por ») y que están narrados en primera persona por “la protagonista”. Así quizá elimine un poquito de esa confusión, y también consigo un “efecto teatro” que le da un punto original a la historia. De todas formas, lo que aportaban esas líneas no era mucho.&lt;/p&gt;
+
+&lt;p&gt;También decido que el agente de policía que interroga a la protagonista sea también mujer. No tiene mucha importancia, pero me parece que así sugiere un poco más de complicidad entre ellas.&lt;/p&gt;
+
+&lt;p&gt;Y la otra resolución que tomo es que voy a &lt;strong&gt;pensar un nuevo final&lt;/strong&gt;, porque no termino de estar satisfecho con él. Me voy a dar un tiempo para pensarlo. Tengo que encontrar algo que siga siendo abierto pero no tanto.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;De todas formas, esta versión, con algunas correcciones pero con el mismo final, es la que envío a un par de certámenes en los que (previsiblemente), &lt;strong&gt;no gané nada&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aquí abajo pongo un documento con la segunda versión y con el control de cambios activado. Aparece &lt;del&gt;tachado&lt;/del&gt; lo que se elimina, y &lt;ins&gt;subrayado&lt;/ins&gt; lo que se añade. No soy muy amigo de reescribir; es más, me resulta casi imposible, así que los cambios son principalmente correcciones de erratas. Eso sí, muchas. No ha pasado por un corrector profesional y seguro que queda alguna más.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/scl/fi/gr6g0mqebwar5hc31iicn/Version-2-Talento-con-cambios.docx?dl=0&amp;amp;rlkey=iuvv8zyw46tirt86tdnl68mfu&quot; class=&quot;dropbox-embed&quot; data-height=&quot;20em&quot; data-width=&quot;100%&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;el-verdadero-final&quot;&gt;El verdadero final&lt;/h2&gt;
+
+&lt;p&gt;Como no estaba satisfecho con el final, pensé en cómo podría mejorarlo, cambiarlo o rehacerlo y me planteé todas las opciones posibles, sin que ninguna me llegar a convencer.&lt;/p&gt;
+
+&lt;p&gt;Mi mejor opción era escribir algo adicional desde el punto de vista de los otros protagonistas. Por ejemplo, podría contar cómo habían vivido esos días Martín y Hugo para que el lector pudiera completar la historia. Insisto en que la parte &lt;em&gt;oculta al lector&lt;/em&gt; de la historia tampoco la tenía yo completamente clara, y tenía margen para ir dibujándola sin necesidad de reescribir lo anterior.&lt;/p&gt;
+
+&lt;p&gt;Pero esa idea tenía un gran inconveniente. Ya que había basado todo el relato en un diálogo, si escribía un par de capítulos adicionales tendría que mantenerme coherente a ese estilo. Bien, por pura lógica podría decidirme a escribr un fragmento en el que Martín tuviera una conversación con alguien, y lo mismo con Hugo. Eso implicaría introducir más personajes. O bien, presentar las declaraciones ante la policía de cada uno de ellos, de forma similar a lo que ya había escrito. Estéticamente me atraía mucho la idea, pero no en cuanto a contenido.&lt;/p&gt;
+
+&lt;p&gt;Darle vueltas a eso era meterme a mí mismo en un callejón sin salida. Si realmente no tenía más historia que contar, ¿para qué complicarme? Esto es volver al o que decía al principio de mi incapacidad para inventarme una historia desde cero.&lt;/p&gt;
+
+&lt;p&gt;Así que estuve bloqueado hasta que se me ocurrió cambiar los &lt;em&gt;hechos ocultos&lt;/em&gt;, es decir, lo que había ocurrido y que no había explicado e inmediatamente me vino a la cabeza de qué manera contarlos.&lt;/p&gt;
+
+&lt;p&gt;Estos fueros los cambios en los hechos y la verdadera historia:&lt;/p&gt;
+
+&lt;p&gt;&lt;mark&gt;Atención: SPOILERS&lt;/mark&gt;&lt;/p&gt;
+
+&lt;p&gt;El fantasma, difunto marido de la mujer (clienta) no estaba muerto. Ella lo intentó asesinar, fruto de una relación de malos tratos, y creyó que lo había conseguido. Pero no, el hombre seguía vivo y, por alguna razón, de cuando en cuando volvía a la casa. Durante la sesión de ouija, estuvo allí. Martín lo vio y creyó ver un fantasma. Es normal que se asustara y dudara de su propia cordura. Además, eso le traía recuerdos de su propia familia, que vivió una situación parecida en el pasado.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Y la forma de contarlo sería una conversación entre Hugo y Martín. Con unas pocas líneas de diálogo podría terminar de definir bien a los personajes (ya se ha hablado antes de ellos, así que el lector ya se había podido hacer una idea de cómo son). Hugo, al encontrase más sereno, sería el que ataría los cabos. La última frase tenía que ser, sin lugar a dudas: &lt;em&gt;Martín, para algunas cosas eres muy listo, pero para otras eres más tonto…&lt;/em&gt;, que, además, encajaba perfectamente con los concepto clave de talento, habilidades, torpezas y personalidades complementarias. Y como punto extra, dejaba la puerta abierta a pensar que ese señor seguía suelto.&lt;/p&gt;
+
+&lt;p&gt;Tampoco lo contaría todo claramente, &lt;strong&gt;seguiría dejando el final abierto a interpretaciones pero, al menos, con pistas para que se pueda entender&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Antes también había considerado añadir un tercer capítulo, que fuera una conversación entre familiares de la difunta mujer (por ejemplo, sus hijos), que fueran a desalojar la casa tras lo acontecido y mencionaran, para que el lector lo tuviera claro, los hechos pasados, el intento de asesinato del padre por parte de la madre, y la decisión de ellos de mantenerla en la ignorancia, para que (desde la ingenuidad), ella pudiera estar más tranquila pensando que su maltratador ya no existía. Pero esto lo descarté porque me pareció más divertido mantener algunas incógnitas. De todas formas, si alguien ha llegado hasta aquí leyendo, me encantaría saber su opinión 😉.&lt;/p&gt;
+
+&lt;h2 id=&quot;retoques&quot;&gt;Retoques&lt;/h2&gt;
+
+&lt;p&gt;Después de añadir ese segundo capítulo, le doy otra revisión y siguen apareciendo erratas y pequeños fallos de estilo (comas y puntos, tiempos verbales…). Aviso: No hagáis esto en casa. Este relato en ningún momento ha pasado por un corrector profesional y eso está muy mal. &lt;strong&gt;Los correctores son dioses y a los mortales siempre se nos va a escapar algo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aquí dejo el documento, también con el control de cambios activado, para que podáis comparar. En la primera parte hay algunas correcciones menores, no se añade ni omite ninguna información ni se altera la trama. La segunda parte es completamente nueva.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/fhxkq3ira5a7149/Version%203%20final%20-%20Talento%20%28con%20cambios%29.docx?dl=0&quot; class=&quot;dropbox-embed&quot; data-height=&quot;20em&quot; data-width=&quot;100%&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusiones&quot;&gt;Conclusiones&lt;/h2&gt;
+
+&lt;p&gt;Después del segundo borrador (antes de añadir el nuevo final), vi la convocatoria organizada por &lt;a href=&quot;https://avenidanoir.blogspot.com/2020/04/queridos-noirs-llega-el-momento-de.html&quot;&gt;Avenida Noir&lt;/a&gt; sobre &lt;strong&gt;domestic noir&lt;/strong&gt; (terror de lo cotidiano). Me pareció que el relato podría encajar muy bien en lo que buscaban. Aunque no estaba muy seguro de que se pudiera considerar terror, al menos tenía el componente de intriga psicológica.&lt;/p&gt;
+
+&lt;p&gt;Tras de los dos primeros rechazos en convocatorias, a esta quería presentar alguna versión mejorada y no envié mi propuesta hasta casi el cierre del plazo. Le di muchísimas vueltas a la historia, hasta que caí en un giro y una solución al puzle con la que estuve totalmente satisfecho. Esa presión con las fechas y las ganas de que me incluyeran me sirvió de empujón para terminarlo.&lt;/p&gt;
+
+&lt;p&gt;¡¡Y seleccionaron mi relato para formar parte de la antología!!&lt;/p&gt;
+
+&lt;p&gt;👏👏👏&lt;/p&gt;
+
+&lt;p&gt;El último documento que he enlazado más arriba es la versión final publicada, a excepción de alguna errata y corrección menor. Si alguien quiere leerla con un formato y maquetación bonito (epub, mobi o pdf), puede descargar gratuitamente la antología &lt;a href=&quot;https://lektu.com/l/avenida-noir/dulce-hogar-antologia-domestic-noir/15569&quot;&gt;Dulce Hogar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Espero que todo este tostón pueda servir a alguien o, simplemente, haberos hecho pasar un rato entretenido. Para cualquier comentario o sugerencia, me podéis encontrar en twitter &lt;a href=&quot;twitter.com/granbosque&quot;&gt;@granbosque&lt;/a&gt; o escribir en la cajita de abajo. Si alguien ha llegado hasta aquí: ¡Gracias por leerme! Y si quieres leer algo más mío, mira en la sección &lt;a href=&quot;/about&quot;&gt;Sobre mí&lt;/a&gt; o &lt;a href=&quot;https://lektu.com/a/andres-granbosque/8267&quot;&gt;mi perfil en Lektu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Enlaces:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AvenidaNoir&quot;&gt;@AvenidaNoir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Antología Dulce Hogar: 👉&lt;a href=&quot;https://lektu.com/l/avenida-noir/dulce-hogar-antologia-domestic-noir/15569&quot;&gt;https://lektu.com/l/avenida-noir/dulce-hogar-antologia-domestic-noir/15569&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Reseña de cada uno de los relatos de la antología: &lt;a href=&quot;https://altavozcultural.com/2020/12/18/dulce-hogar-antologia-domestic-noir-avenida-noir/&quot;&gt;https://altavozcultural.com/2020/12/18/dulce-hogar-antologia-domestic-noir-avenida-noir/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Coloquio donde contesto a preguntas sobre la antología y mi relato:  &lt;a href=&quot;https://altavozcultural.com/2020/12/18/dulce-hogar-coloquio-entre-autores/&quot;&gt;https://altavozcultural.com/2020/12/18/dulce-hogar-coloquio-entre-autores/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.dropbox.com/static/api/2/dropins.js&quot; id=&quot;dropboxjs&quot; data-app-key=&quot;b1tf5qbmk8yvwkp&quot;&gt;&lt;/script&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>J. Andrés M. G.</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="relatos" />
+      
+
+      
+
+      
+        <summary type="html">“Dulce Hogar” es la primera antología coordinada por Avenida Noir, basada en el terror cotidiano y el domestic noir. Uno de los 10 relatos que la constituyen es de mi autoría y se llama «Talento». Te puedes descargar la antología gratis (con pago social) aquí 👉 Lektu: Dulce Hogar El relato tiene elementos de misterio, intriga y género policiaco. También está narrado de una forma un tanto experimental que supuso un reto muy divertido. En este artículo voy a contar cómo ha sido el proceso de escritura, desde la idea primigenia hasta los últimos retoques. Puede que el futuro haga más making of similares a este, pero al ser el primero, también voy a explayarme en contar cuales son mis técnicas y trucos a la hora de escribir. Más que un análisis que desgranando el relato, es una guía sobre cómo fui ensamblando las piezas.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
