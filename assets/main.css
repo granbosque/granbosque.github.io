@@ -295,7 +295,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-content ul { margin-top: 1em; }
 
-.post-content hr { border: none; margin: 3em auto; background: none; text-align: center; border: none; border-top: 1px dotted #8c8b8b; max-width: 6em; overflow: visible; }
+.post-content hr { clear: both; border: none; margin: 3em auto; background: none; text-align: center; border: none; border-top: 1px dotted #8c8b8b; max-width: 6em; overflow: visible; }
 
 .post-content hr:after { content: ' § § §'; display: inline-block; position: relative; top: -14px; padding: 0 10px; background: #fdfdfd; color: #8c8b8b; font-size: 18px; }
 
