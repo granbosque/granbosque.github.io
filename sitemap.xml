@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://granbosque.es/2019/10/23/el-enemigo-comun-hormigas/</loc>
-<lastmod>2019-10-23T18:06:55+02:00</lastmod>
-</url>
-<url>
 <loc>https://granbosque.es/2019/10/24/personajes-a-los-que-he-tardado-decadas-en-comprender/</loc>
 <lastmod>2019-10-24T18:11:40+02:00</lastmod>
 </url>
@@ -58,9 +54,6 @@
 <loc>https://granbosque.es/</loc>
 </url>
 <url>
-<loc>https://granbosque.es/categories/fragmentos/</loc>
-</url>
-<url>
 <loc>https://granbosque.es/categories/reflexiones/</loc>
 </url>
 <url>
@@ -77,6 +70,6 @@
 </url>
 <url>
 <loc>https://granbosque.es/assets/files/Lo%20m%C3%A1s%20importante.pdf</loc>
-<lastmod>2021-04-10T11:35:39+02:00</lastmod>
+<lastmod>2022-09-06T12:57:10+02:00</lastmod>
 </url>
 </urlset>
