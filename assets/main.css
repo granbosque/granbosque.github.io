@@ -37,8 +37,6 @@ h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { font-size: inherit; }
 
-h1:lang(ko), h2:lang(ko), h3:lang(ko) { word-break: keep-all; }
-
 /** Links */
 a { color: #25ba68; text-decoration: none; }
 
@@ -347,5 +345,12 @@ video { margin-top: 2em; width: 100%; }
 .post-content img.align-center { display: block; margin-left: auto; margin-right: auto; max-width: 50%; }
 
 sup { vertical-align: text-top; font-size: 70%; position: relative; top: -0.5em; }
+
+/*-----*/
+.intro { margin-top: 3em; margin-bottom: 3em; }
+
+.col2 { columns: 2; column-gap: 3em; margin-bottom: 3em; }
+
+.intro img { width: 100%; filter: drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.1)); margin-bottom: 0.5em; }
 
 /*# sourceMappingURL=main.css.map */
